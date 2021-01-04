@@ -5,9 +5,11 @@ Home: https://github.com/boutproject/boutdata
 
 Package license: LGPL-3.0-only
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/boutdata-feedstock/blob/master/LICENSE.txt)
 
 Summary: Load and plot BOUT++ output data
+
+Development: https://github.com/boutproject/boutdata
 
 pip-package of what was previously found in BOUT-dev/tools/pylib/boutdata
 Note that BOUT-dev/tools/pylib/boutdata will likely be replaced by this
