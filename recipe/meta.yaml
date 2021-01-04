@@ -24,7 +24,6 @@ requirements:
     - numpy
     - matplotlib-base
     - scipy
-    - bunch
     - boututils
 
 test:
@@ -32,10 +31,8 @@ test:
     - boutdata
   requires:
     - pytest
-  source_files:
-    - test
   commands:
-    - pytest
+    - pytest --pyargs boutdata
 
 about:
   home: https://github.com/boutproject/boutdata
