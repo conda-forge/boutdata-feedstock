@@ -32,6 +32,7 @@ test:
   requires:
     - pytest
   commands:
+    - bout-squashoutput --help
     - pytest --pyargs boutdata
 
 about:
