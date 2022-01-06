@@ -1,5 +1,5 @@
 {% set name = "boutdata" %}
-{% set version = "0.1.5" %}
+{% set version = "0.1.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: faa8f4a12f0c8d966b6131ff2a5ae77f3216677f74a52df214354ab21f04184b
+  sha256: 97e47b3bd8d369aebb8e8a48e2416ff9736f0cd77b172c0547cd3be3ee3db069
 
 build:
   noarch: python
