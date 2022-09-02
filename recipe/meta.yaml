@@ -23,6 +23,7 @@ requirements:
     - sympy
     - numpy
     - matplotlib-base
+    - natsort
     - scipy
     - boututils
 
