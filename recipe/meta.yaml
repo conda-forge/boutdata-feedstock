@@ -25,6 +25,7 @@ requirements:
     - matplotlib-base
     - natsort
     - scipy
+    - setuptools_scm
     - boututils
 
 test:
