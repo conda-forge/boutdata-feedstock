@@ -1,11 +1,11 @@
-About boutdata
-==============
+About boutdata-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/boutdata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/boutproject/boutdata
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/boutdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Load and plot BOUT++ output data
 
