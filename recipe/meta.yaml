@@ -25,6 +25,7 @@ requirements:
     - numpy
     - matplotlib-base
     - natsort
+    - netcdf4
     - scipy
 
 test:
